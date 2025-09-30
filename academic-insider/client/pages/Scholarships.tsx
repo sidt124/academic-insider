@@ -3,19 +3,19 @@ import { Button } from "@/components/ui/button";
 
 const scholarships = [
   {
-    title: "STEM Excellence Scholarship",
+    title: "Insert desc here",
     description:
-      "For students demonstrating outstanding achievement and leadership in STEM fields.",
+      "Insert desc here",
   },
   {
-    title: "Community Impact Grant",
+    title: "Insert desc here",
     description:
-      "Supports students leading meaningful service projects in their communities.",
+      "Insert desc here",
   },
   {
-    title: "First-Gen Scholar Award",
+    title: "Insert desc here",
     description:
-      "Resources and funding for first-generation college-bound students.",
+      "Insert desc here",
   },
 ];
 
