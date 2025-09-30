@@ -29,7 +29,7 @@ export default function Portfolio() {
     <main className="container py-12">
       <div className="mb-8">
         <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">Portfolio</h1>
-        <p className="mt-2 text-muted-foreground max-w-prose">Showcase of our social content. Embeds below can be replaced with your own Instagram posts or reels.</p>
+        <p className="mt-2 text-muted-foreground max-w-prose">Showcase of our social content.</p>
       </div>
       <div className="grid gap-6 md:grid-cols-2">
         {embeds.map((url) => (
