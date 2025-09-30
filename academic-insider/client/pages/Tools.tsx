@@ -5,27 +5,27 @@ const tools = [
   {
     title: "Career Path",
     description:
-      "Discover career paths that align with your strengths and interests. Get curated resources to explore and prepare.",
+      "Insert desc here",
   },
   {
     title: "College Application Review",
     description:
-      "Upload your essays and application materials for feedback on content, clarity, and impact.",
+      "Insert desc here",
   },
   {
     title: "Notes",
     description:
-      "Organize class notes, summaries, and flashcards. Keep everything searchable and in one place.",
+      "Insert desc here",
   },
   {
     title: "Academic Insider Course",
     description:
-      "Step-by-step guidance on building a standout profile and acing your academics.",
+      "Insert desc here",
   },
   {
     title: "Scholarships",
     description:
-      "Find scholarships that match your profile and track deadlines with ease.",
+      "Insert desc here",
   },
 ];
 
